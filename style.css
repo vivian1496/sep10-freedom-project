@@ -1,1 +1,27 @@
 
+body {
+    background-color: lavender;
+  }
+
+  h5 {
+    font-family: "Luminari", Papyrus, Fantasy;
+  }
+
+ h1 {
+    font-family: "Chalkduster", Papyrus, Fantasy;
+
+ }
+
+ h4 {
+  font-family:"Chalkduster", Papyrus, Fantasty;
+ }
+
+ #HM  {
+  float: right;
+   margin: 0 0 0 20px;
+  }
+
+  #HS  {
+    float: left;
+     margin: 0 0 0 20px;
+    }
