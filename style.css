@@ -25,3 +25,8 @@ body {
     float: left;
      margin: 0 0 0 20px;
     }
+
+    #HR  {
+      float: right;
+       margin: 0 0 0 20px;
+      }
