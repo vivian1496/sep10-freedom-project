@@ -1,6 +1,6 @@
 
 body {
-    background-color: #D1eaf0;
+    background-color: #FFDBEC;
   }
 
   h5 {
@@ -14,6 +14,10 @@ body {
 
  h4 {
   font-family:"Chalkduster", Papyrus, Fantasty;
+ }
+
+ P {
+  Font-family:"Chalkduster", Papyrus, Fantasty;
  }
 
  #HM  {
@@ -30,3 +34,4 @@ body {
       float: right;
        margin: 0 0 0 20px;
       }
+
